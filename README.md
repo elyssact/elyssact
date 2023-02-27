@@ -1,10 +1,14 @@
 <h1> Elyssa Thompson
 - Welcome to my Portfolio!
+  
+<h2> 🤳 Certifications:</h2>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+- [Google IT Support Professional]([https://www.linkedin.com/in/elyssa-thompson/](https://www.coursera.org/account/accomplishments/specialization/certificate/J8RA4CU3R5BX)
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+<h2>👨‍💻 It & Cybersecurity Projects:</h2>
+
+- <b>Active Directory Home Lab</b>
+  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
@@ -18,8 +22,10 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  
+<h2>📖 Tutorials :</h2>
 
-<h2>📄 Blog Posts</h2>
+<h2>📄 Popular Blog Posts</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
@@ -31,17 +37,3 @@
 
 - [Linkedin](https://www.linkedin.com/in/elyssa-thompson/)
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
