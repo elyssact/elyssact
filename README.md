@@ -5,7 +5,7 @@
 
 - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/specialization/certificate/J8RA4CU3R5BX)
 
-<h2>👨‍💻 It & Cybersecurity Projects:</h2>
+<h2>👨‍💻 IT & Cybersecurity Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -23,9 +23,9 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   
-<h2>📖 Tutorials :</h2>
+<h2>📖 Tutorials:</h2>
 
-<h2>📄 Popular Blog Posts</h2>
+<h2>📄 Popular Blog Posts:</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
