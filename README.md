@@ -3,7 +3,7 @@
   
 <h2> 🤳 Certifications:</h2>
 
-- [Google IT Support Professional]([https://www.linkedin.com/in/elyssa-thompson/](https://www.coursera.org/account/accomplishments/specialization/certificate/J8RA4CU3R5BX)
+- [Google IT Support Professional](https://www.coursera.org/account/accomplishments/specialization/certificate/J8RA4CU3R5BX)
 
 <h2>👨‍💻 It & Cybersecurity Projects:</h2>
 
