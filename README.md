@@ -1,7 +1,7 @@
 <h1> Elyssa Thompson
 - Welcome to my Portfolio!
   
-<h2> 🤳 Certifications:</h2>
+<h2> 🎖️ Certifications:</h2>
 
 - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/specialization/certificate/J8RA4CU3R5BX)
 
